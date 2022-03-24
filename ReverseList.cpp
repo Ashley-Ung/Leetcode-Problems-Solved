@@ -1,7 +1,7 @@
 Question: Reverse List [Easy]
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 /**
- * Definition for singly-linked list.
+ * Definition for singly-linked list
  * struct ListNode {
  *     int val;
  *     ListNode *next;
