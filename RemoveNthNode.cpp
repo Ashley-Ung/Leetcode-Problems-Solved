@@ -1,3 +1,6 @@
+Question: Remove Nth Node [Medium]
+Given the head of a linked list, remove the nth node from 
+the end of the list and return its head.
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -8,6 +11,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+    
+Answer: 
 class Solution {
 public:
     ListNode* removeNthFromEnd (ListNode* head, int n) {
